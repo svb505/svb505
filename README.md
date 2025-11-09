@@ -1,54 +1,41 @@
-# Привет! 👋 Я Святослав Булыгин
+# Hi! 👋 I am Svyatoslav Bulygin
 
 ![Header](https://raw.githubusercontent.com/USERNAME/USERNAME/main/header-image.png)
 
-Меня зовут **Святослав**, я увлечён **разработкой игр и C++**, активно изучаю новые технологии и создаю собственные проекты.  
+My name is **Svyatoslav**, i **developp the games in C++(Unreal Engine)**.  
 
 ---
 
-## 📖 Немного обо мне
-- 🎮 Люблю создавать игры и сложные проекты на C++ и Unreal Engine  
-- 🧩 Работаю над собственными проектами и экспериментами с OpenGL и PyGame  
-- 💡 Постоянно учусь новым технологиям и подходам к разработке  
-- 🌍 Мечтаю работать над крупными проектами, такими как War Thunder  
+## 📖 About me
+- 🎮 I love creating complex game projects in C++ and Unreal Engine.
+- 💡 I'm constantly learning new technologies and development approaches.
+- 🌍 I dream of working on large-scale game projects. 
 
 ---
 
-## 🔗 Контакты
-- Telegram: [@username](https://t.me/username)  
+## 🔗 Contacts
+- Telegram: [@Svat_Nas](https://t.me/Svat_Nas)  
 - Discord: `username#1234`  
-- Email: `youremail@example.com`  
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)  
-- ЯП (Языки программирования): C++, Python, Qt, OpenGL  
+- Email: `bulyginsvatoslav018@gmail.com`  
+- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)    
 
 ---
 
-## 🛠️ Технологии и инструменты
-| Язык | Технологии | Инструменты |
-|------|------------|------------|
-| C++  | Unreal Engine, OpenGL | Visual Studio, Git |
-| Python | PyGame, SQLite | VS Code, Jupyter |
-| Qt   | GUI-разработка | Qt Creator, Designer |
+## 🛠️ Programing languages and technologies
+| Language | Technologie |
+|------|------------|
+| C++  | Unreal Engine, OpenGL, DirectX |
+| C    |-------------------|
+| Python | PyGame, SQLite, OpenGL,Tkinter | 
 
 ---
 
-## 💻 Проекты
+## 💻 Projects
 - [Проект 1](ссылка) — Короткое описание проекта  
 - [Проект 2](ссылка) — Короткое описание проекта  
 - [Snake Game](https://github.com/USERNAME/SnakeGame) — Моя реализация классической игры змейка с базой данных SQLite  
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+Thanks you for view! ✨
 
----
-
-## ⚡ Любимые цитаты
-> "Программирование — это не просто код, это способ мышления."  
-> "Лучший способ предсказать будущее — создать его самому."
-
----
-
-Спасибо, что заглянули! ✨
