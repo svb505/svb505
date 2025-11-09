@@ -1,16 +1,54 @@
-## Hi there 👋
+# Привет! 👋 Я Святослав Булыгин
 
-<!--
-**svb505/svb505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://raw.githubusercontent.com/USERNAME/USERNAME/main/header-image.png)
 
-Here are some ideas to get you started:
+Меня зовут **Святослав**, я увлечён **разработкой игр и C++**, активно изучаю новые технологии и создаю собственные проекты.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📖 Немного обо мне
+- 🎮 Люблю создавать игры и сложные проекты на C++ и Unreal Engine  
+- 🧩 Работаю над собственными проектами и экспериментами с OpenGL и PyGame  
+- 💡 Постоянно учусь новым технологиям и подходам к разработке  
+- 🌍 Мечтаю работать над крупными проектами, такими как War Thunder  
+
+---
+
+## 🔗 Контакты
+- Telegram: [@username](https://t.me/username)  
+- Discord: `username#1234`  
+- Email: `youremail@example.com`  
+- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)  
+- ЯП (Языки программирования): C++, Python, Qt, OpenGL  
+
+---
+
+## 🛠️ Технологии и инструменты
+| Язык | Технологии | Инструменты |
+|------|------------|------------|
+| C++  | Unreal Engine, OpenGL | Visual Studio, Git |
+| Python | PyGame, SQLite | VS Code, Jupyter |
+| Qt   | GUI-разработка | Qt Creator, Designer |
+
+---
+
+## 💻 Проекты
+- [Проект 1](ссылка) — Короткое описание проекта  
+- [Проект 2](ссылка) — Короткое описание проекта  
+- [Snake Game](https://github.com/USERNAME/SnakeGame) — Моя реализация классической игры змейка с базой данных SQLite  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## ⚡ Любимые цитаты
+> "Программирование — это не просто код, это способ мышления."  
+> "Лучший способ предсказать будущее — создать его самому."
+
+---
+
+Спасибо, что заглянули! ✨
