@@ -20,7 +20,7 @@ My name is **Svyatoslav**, i **developp the games in C++(Unreal Engine)**.
 ## 🛠️ Programing languages and technologies
 | Language | Technologie |
 |------|------------|
-| C++  | openGl, Qt |
+| C++  | OpenGL, Qt |
 | C    |-------------------|
 | Python | PyGame, SQLite, OpenGL,Tkinter | 
 
