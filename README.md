@@ -1,7 +1,5 @@
 # Hi! 👋 I am Svyatoslav Bulygin
 
-![Header](https://raw.githubusercontent.com/USERNAME/USERNAME/main/header-image.png)
-
 My name is **Svyatoslav**, i **developp the games in C++(Unreal Engine)**.  
 
 ---
@@ -14,28 +12,25 @@ My name is **Svyatoslav**, i **developp the games in C++(Unreal Engine)**.
 ---
 
 ## 🔗 Contacts
-- Telegram: [@Svat_Nas](https://t.me/Svat_Nas)  
-- Discord: `username#1234`  
-- Email: `bulyginsvatoslav018@gmail.com`  
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)    
+- Telegram: [@Svat_Nas](https://t.me/Svat_Nas)    
+- Email: `bulyginsvatoslav018@gmail.com`     
 
 ---
 
 ## 🛠️ Programing languages and technologies
 | Language | Technologie |
 |------|------------|
-| C++  | Unreal Engine, OpenGL, DirectX |
+| C++  | openGl, Qt |
 | C    |-------------------|
 | Python | PyGame, SQLite, OpenGL,Tkinter | 
 
 ---
 
 ## 💻 Projects
-- [Проект 1](ссылка) — Короткое описание проекта  
-- [Проект 2](ссылка) — Короткое описание проекта  
-- [Snake Game](https://github.com/USERNAME/SnakeGame) — Моя реализация классической игры змейка с базой данных SQLite  
+- [SVBEngine](https://github.com/svb505/SVBEngine) — SVBEngine that is mini game-engine with OpenGL render and Qt UI:  
 
 ---
 
 Thanks you for view! ✨
+
 
