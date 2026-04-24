@@ -20,7 +20,7 @@ My name is **Svyatoslav**, i **developp the games in C++**.
 ## 🛠️ Programing languages and technologies
 | Language | Technologie |
 |------|------------|
-| C++  | OpenGl, Qt, Enet, SQlite, GLAD, GLFW, GLU, ImGui, Json(nlohmann) |
+| C++  | OpenGl, Qt, Enet, SQlite, GLAD, GLFW, GLU, ImGui, Json(nlohmann), OpenSSL |
 | C    |-------------------|
 | Python | PyGame, SQLite, OpenGL,Tkinter | 
 
