@@ -49,19 +49,13 @@ My name is **Svyatoslav**, I develop games in **C++**.
 ---
 ## 💻✨ Hoddy Projects
 
-### 🎮 [Durak Game](https://github.com/svb505/Durak_Russian_Card_Game)
-
-> That's a dekstop card game "Durak" 
-
 ### 🖥️ [WinDoors52](https://github.com/svb505/WNDRS)
 
 > WinDoors52 is a OS simulator in the Python
 
-### 🏎️ [Race](https://github.com/svb505/race)     ### 👾 [Space Shooter](https://github.com/svb505/space_shooter)
-
-### 🃏 [Dice Poker](https://github.com/svb505/dice_poker)     ### 💰 [Bussiness Empire](https://github.com/svb505/bussiness_empire)
-
-### 💥 [Artillery cannon](https://github.com/svb505/cannon)
+ 🏎️ [Race](https://github.com/svb505/race)  👾 [Space Shooter](https://github.com/svb505/space_shooter)
+ 🃏 [Dice Poker](https://github.com/svb505/dice_poker)  💰 [Bussiness Empire](https://github.com/svb505/bussiness_empire)
+ 💥 [Artillery cannon](https://github.com/svb505/cannon)  🎮 [Durak Game](https://github.com/svb505/Durak_Russian_Card_Game)
 
 ---
 
