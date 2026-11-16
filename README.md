@@ -44,7 +44,7 @@ My name is **Svyatoslav**, I develop games in **C++**.
 
 ### 🏪 [FPV Market](https://bulyginsvatoslav.gumroad.com/l/fpvmarket)
 
-> FPV Market that's a simulator of a store of FPV drones and components for. You can buy and sell the drones of components.
+> FPV Market that's a simulator of a store of FPV drones and components for. You can buy and sell the drones or components.
 > The AI buyers will go buy and take your store the raiting note
 
 ---
