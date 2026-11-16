@@ -75,6 +75,8 @@ My name is **Svyatoslav**, I develop games in **C++**.
 * 📧 Email: `bulyginsvatoslav018@gmail.com`
 
 ---
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=svb505&show_icons=true&theme=tokyonight)
+---
 
 ### ⭐ Thanks for viewing!
 
