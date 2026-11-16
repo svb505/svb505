@@ -57,13 +57,9 @@ My name is **Svyatoslav**, I develop games in **C++**.
 
 > WinDoors52 is a OS simulator in the Python
 
-### 🏎️ [Race](https://github.com/svb505/race)
+### 🏎️ [Race](https://github.com/svb505/race)     ### 👾 [Space Shooter](https://github.com/svb505/space_shooter)
 
-### 👾 [Space Shooter](https://github.com/svb505/space_shooter)
-
-### 🃏 [Dice Poker](https://github.com/svb505/dice_poker)
-
-### 💰 [Bussiness Empire](https://github.com/svb505/bussiness_empire)
+### 🃏 [Dice Poker](https://github.com/svb505/dice_poker)     ### 💰 [Bussiness Empire](https://github.com/svb505/bussiness_empire)
 
 ### 💥 [Artillery cannon](https://github.com/svb505/cannon)
 
@@ -76,6 +72,7 @@ My name is **Svyatoslav**, I develop games in **C++**.
 
 ---
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=svb505&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=svb505&layout=compact&theme=tokyonight)
 ---
 
 ### ⭐ Thanks for viewing!
